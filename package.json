@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "node": "nodemon --exec babel-node --presets env index.js"
   },
   "author": "helloca",
   "license": "ISC",
