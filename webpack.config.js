@@ -29,7 +29,7 @@ module.exports = {
   },
   devServer: {
     port: 9090,
-    open: false, //自动打开页面，
+    open: true, //自动打开页面，
     hot: true, //开启热更新，
     inline: true,
   },
