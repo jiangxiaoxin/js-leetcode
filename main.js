@@ -11,4 +11,7 @@ import { isSameTreeCheck } from './src/package/100'
 // isSameTreeCheck()
 
 import { minDepthCheck } from './src/package/111'
-minDepthCheck()
+// minDepthCheck()
+
+import { sortedArrayToBSTCheck } from './src/package/108'
+sortedArrayToBSTCheck()
