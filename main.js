@@ -14,4 +14,10 @@ import { minDepthCheck } from './src/package/111'
 // minDepthCheck()
 
 import { sortedArrayToBSTCheck } from './src/package/108'
-sortedArrayToBSTCheck()
+// sortedArrayToBSTCheck()
+
+import { longestCommonPrefixCheck } from './src/package/14'
+// longestCommonPrefixCheck()
+
+import { climbStairsCheck } from './src/package/70'
+// climbStairsCheck()
