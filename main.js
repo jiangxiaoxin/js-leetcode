@@ -1,23 +1,23 @@
-import { removeElementsCheck } from './src/package/203'
+import { removeElementsCheck } from "./src/package/203";
 // removeElementsCheck()
 
-import { deleteNodeCheck } from './src/package/237'
+import { deleteNodeCheck } from "./src/package/237";
 // deleteNodeCheck()
 
-import { isSymmetricCheck } from './src/package/101'
+import { isSymmetricCheck } from "./src/package/101";
 // isSymmetricCheck()
 
-import { isSameTreeCheck } from './src/package/100'
+import { isSameTreeCheck } from "./src/package/100";
 // isSameTreeCheck()
 
-import { minDepthCheck } from './src/package/111'
+import { minDepthCheck } from "./src/package/111";
 // minDepthCheck()
 
-import { sortedArrayToBSTCheck } from './src/package/108'
+import { sortedArrayToBSTCheck } from "./src/package/108";
 // sortedArrayToBSTCheck()
 
-import { longestCommonPrefixCheck } from './src/package/14'
+import { longestCommonPrefixCheck } from "./src/package/14";
 // longestCommonPrefixCheck()
 
-import { climbStairsCheck } from './src/package/70'
+import { climbStairsCheck } from "./src/package/70";
 // climbStairsCheck()
