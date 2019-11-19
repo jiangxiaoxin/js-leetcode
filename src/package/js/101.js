@@ -9,7 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-const utils = require('../utils')
+const utils = require('../../utils')
 const { TreeNode, makeCompleteBinaryTree } = utils.default
 var isSymmetric = function(root) {}
 

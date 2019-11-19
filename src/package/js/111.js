@@ -1,4 +1,4 @@
-import { TreeNode, makeCompleteBinaryTree } from '../utils/TreeNode'
+import { TreeNode, makeCompleteBinaryTree } from '../../utils/TreeNode'
 
 /**
  * @param {TreeNode} root
