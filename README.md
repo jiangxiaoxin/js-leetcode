@@ -32,16 +32,17 @@
 
 ### 简单
 
-- 21.合并两个有序链表
-- 206.反转链表
-- 217.存在重复元素
+21. 合并两个有序链表
+206. 反转链表
+217. 存在重复元素
 
 ### 中等
 
-- 11.Container With Most Water
-- 15.3 sum
-- 19.删除链表的倒数第N个节点
-- 39.Combination Sum
+11. Container With Most Water
+15. 3 sum
+16. 3Sum Closest
+19. 删除链表的倒数第N个节点
+39. Combination Sum
 
 ### 困难
 
