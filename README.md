@@ -40,6 +40,7 @@
 
 |id|name|
 |------|------|
+|6|zig-zag conversion|
 |11| Container With Most Water |
 |15|3 sum|
 |16|3Sum Closest|
