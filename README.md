@@ -32,12 +32,31 @@
 
 #### 简单
 
-|id|title|
-|---|---|
-|101|对称二叉树|
-|590|N叉树的后序遍历。用迭代法|
-|404|左叶子之和|
-|501|二叉搜索树中的众数|
-|872|叶子相似的树|
-|965|单值二叉树|
-|面试题 04.04.|检查平衡性|
+| id           | title                     |
+| ------------ | ------------------------- |
+| 101          | 对称二叉树                |
+| 112          | 路径总和                  |
+| 113          | 路径总和 II               |
+| 257          | 二叉树的所有路径          |
+| 404          | 左叶子之和                |
+| 501          | 二叉搜索树中的众数        |
+| 590          | N叉树的后序遍历。用迭代法 |
+| 872          | 叶子相似的树              |
+| 965          | 单值二叉树                |
+| 面试题 04.04 | 检查平衡性                |
+
+#### 中等
+| id  | title                    |
+| --- | ------------------------ |
+| 129 | 求根到叶子节点数字之和   |
+| 988 | 从叶结点开始的最小字符串 |
+
+#### 困难
+| id  | title |
+| --- | ----- |
+
+
+
+## Some Links
+1. [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+2. [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)

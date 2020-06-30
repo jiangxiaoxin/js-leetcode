@@ -8,9 +8,9 @@
       "type": "node",
       "request": "launch",
       "name": "启动程序",
-      "program": "${workspaceFolder}\\main.js",
+      "program": "${workspaceFolder}\\src\\package\\js\\113.js",
       "sourceMaps": true,
-      "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/babel-node",
+      // "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/babel-node", // 用babel-node启动，需要对代码做转换，所以会慢一些。或者使用CommonJS的写法
     }
   ]
 }
