@@ -58,8 +58,25 @@ const isNode = function(node) {
   return node != null && node.val != null;
 }
 
+// 以root为根的二叉树，树中元素全部唯一，找出指定val的节点
+// 它有些题参数是树中的节点，但是我们模拟时只能输入节点值，或者自己new一个节点，那都不行，就从树中先找出来再传进去
+const findTargetNode = function(root, val) {
+  if (!root) {
+    return null;
+  }
+  if (root.val == val) {
+    return root;
+  }
+  let left = findTargetNode(root.left, val);
+  if (left) {
+    return left;
+  }
+  return findTargetNode(root.right, val);
+}
+
 // 改成Node模块方式，这样不用在启动时用babel-node对代码进行转化，调试起来更快
 module.exports.Node = Node;
 module.exports.makeTree = makeTree;
 module.exports.isNode = isNode;
+module.exports.findTargetNode = findTargetNode;
 
