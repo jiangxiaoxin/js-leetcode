@@ -30,6 +30,10 @@
 - 大问题拆解小问题，然后合并结果
 - 反证法
 
+## TODO
+
+- [ ] 打印二叉树结构，可以是canvas的，也可以是terminal的
+
 ## 题目列表
 
 #### 简单
@@ -46,6 +50,7 @@
 | 404          | <font color="green">简单</font>  | 左叶子之和                |
 | 437          | <font color="green">简单</font>  | 路径总和 III              |
 | 501          | <font color="green">简单</font>  | 二叉搜索树中的众数        |
+| 538          | <font color="green">简单</font>  | 把二叉搜索树转换为累加树  |
 | 590          | <font color="green">简单</font>  | N叉树的后序遍历。用迭代法 |
 | 687          | <font color="green">简单</font>  | 最长同值路径              |
 | 700          | <font color="green">简单</font>  | 二叉搜索树中的搜索        |
@@ -55,8 +60,19 @@
 | 988          | <font color="orange">中等</font> | 从叶结点开始的最小字符串  |
 | 面试题 04.04 | <font color="green">简单</font>  | 检查平衡性                |
 
-
-
 ## Some Links
 1. [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
 2. [Understanding module.exports and exports in Node.js](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+3. [How to visualize a binary tree in C++](https://visbud.blogspot.com/2019/03/how-to-visualize-binary-tree-in-c.html)
+4. [BST ASCII Visualization](https://github.com/YoussefRaafatNasry/bst-ascii-visualization)
+5. [How to Print a Binary Tree Diagram](https://www.baeldung.com/java-print-binary-tree-diagram)
+6. [chrome dev tools](https://developers.google.com/web/tools/chrome-devtools)
+7. [避免大型、复杂的布局和布局抖动](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing?utm_source=devtools#avoid-forced-synchronous-layouts)
+8. [Moris traversal guide](https://www.educative.io/edpresso/what-is-morris-traversal)
+9. [Moris traversal](https://codeoverflow.wordpress.com/tag/morris-inorder-traversal/)
+
+
+
+## web performance
+1. [如何提高性能](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
+2. [使用工具查看性能](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance)
