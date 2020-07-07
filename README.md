@@ -51,6 +51,7 @@
 | 437          | <font color="green">简单</font>  | 路径总和 III              |
 | 501          | <font color="green">简单</font>  | 二叉搜索树中的众数        |
 | 538          | <font color="green">简单</font>  | 把二叉搜索树转换为累加树  |
+| 572          | <font color="green">简单</font>  | 另一个树的子树            |
 | 590          | <font color="green">简单</font>  | N叉树的后序遍历。用迭代法 |
 | 687          | <font color="green">简单</font>  | 最长同值路径              |
 | 700          | <font color="green">简单</font>  | 二叉搜索树中的搜索        |
